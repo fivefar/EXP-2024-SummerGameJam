@@ -2,8 +2,6 @@
 
 > '길건너 친구들 (Crossy Road)' 의 축소 버전 컨셉으로, 다리·차량·캐릭터를 조합한 캐주얼 액션 게임. 홍익대학교 게임 개발 동아리 **ExP makE** 의 2024 여름 게임잼에 팀으로 참여하여 **단 24 시간 안에 완성** 했습니다.
 
-![Background](docs/screenshots/01-background.png)
-
 ---
 
 ## Game Overview
@@ -45,13 +43,6 @@
 ### URP 2D 렌더링 + 게임 UI
 - URP 2D 라이팅 + Pixel Perfect Camera
 - 게임 UI (Start / Pause / Setting / Home) + 스킨 선택 화면
-
-## Screenshots
-
-| Bridge | Vehicles |
-|---|---|
-| ![Bridge](docs/screenshots/02-bridge.png) | ![Car Green](docs/screenshots/03-car-green.png) |
-| ![Car Yellow](docs/screenshots/04-car-yellow.png) | ![Ship](docs/screenshots/05-ship.png) |
 
 ## Collaboration Insights
 
