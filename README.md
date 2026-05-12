@@ -59,7 +59,7 @@
 
 ## Developer
 
-**윤현상 (Hyunsang Yoon)** — 1 인 인디 게임 개발자
+**윤현상 (Hyunsang Yoon)** — Game Designer
 
 - itch.io: [nestward](https://nestward.itch.io)
 - GitHub: [@fivefar](https://github.com/fivefar)
